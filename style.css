@@ -6,6 +6,7 @@ main {
 }
 
 section {
+  margin-top: 25%;
   border: 4px double #0529f4;
   text-align: center;
   color: #ee4c0c;
